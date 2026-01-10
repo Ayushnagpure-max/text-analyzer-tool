@@ -1,0 +1,13 @@
+TEXT ANALYZER RESULTS
+---------------------
+
+Total Words: 24
+Total Sentences: 4
+Average Words per Sentence: 6.0
+
+Top 5 Most Frequent Words:
+python : 3
+powerful : 1
+programming : 1
+language : 1
+it : 1
